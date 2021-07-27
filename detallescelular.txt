@@ -15,20 +15,3 @@ probar bluetooth
 380 a 430 celular de 4 gb ram y 128 gb interno.
 450 a 580 celular 6 gb ram y 64 o 128 gb iterno. 
 
-----Xiaomi Redmi Note 9S-(Snapdragon 720G 2.3GHz,6.67", 1080 x 2400 pixels,  395ppi, 2020 Marzo).
-
-----Oneplus Nord---------(SnapD. 765 Octa-Core,  6.44", 8 GB RAM,408 Pixeles por pulgada,  Julio 2020).
-
-----Poco X3 NFC----------(Snapdragon 732G, 6.67" , 395ppi, 2020 Septiembre ).
-
-----Xiaomi Poco X3 Pro---(Snapdragon 860 2.96GHz, 6.67", 1080 x 2400 pixels, 395ppi, 2021 Marzo ).
-
-----Oppo Realme 7 Pro----(Snapdragon 720G 2.3GHz, 6.4", 1080 x 2400 pixels, 409ppi, 2020 Septiembre).
-
-----Samsung Galaxy A51---(Exynos 9611 2.3GHz, 6.5", 1080 x 2400 pixels,405ppi, 2019 Diciembre ).
-
-----Samsung Galaxy A70---(Snapdragon 675 2GHz, 6.7", 1080 x 2400 pixels, 393ppi, 2019 Marzo).
-
-----Samsung Galaxy A71---(Snapdragon 730 2.2GHz, 6.7", 1080 x 2400 pixels, 393ppi, 2019 Diciembre).
-
-----Samsung Galaxy A31---(Octa-core 2GHz, 6.4", 1080 x 2400 pixels, 411ppi, 2020 Marzo ).
